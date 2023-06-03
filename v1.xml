@@ -1,1 +1,4 @@
-
+<Response>
+<Say voice="alice">Hi, Thank you for calling LightHouseAPP HQ. Enjoy!</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
